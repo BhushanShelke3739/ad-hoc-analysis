@@ -42,11 +42,12 @@ All charts are collected into a single professional **PDF report** using `matplo
 * A multi-page **PDF report** showcasing all visualizations
 * Ready-to-share insights for business decision-making or data storytelling
 
-* ![image](https://github.com/user-attachments/assets/9b702a6a-fc50-4e21-b194-5671dfaede8f)
-* ![image](https://github.com/user-attachments/assets/c929c1f7-f605-4f17-af2d-b9708eee2d85)
 
 
 ## 📊 Sample Visualizations
+
+* ![image](https://github.com/user-attachments/assets/9b702a6a-fc50-4e21-b194-5671dfaede8f)
+* ![image](https://github.com/user-attachments/assets/c929c1f7-f605-4f17-af2d-b9708eee2d85)
 
 The report includes:
 - Demographics analysis (age groups, gender)
